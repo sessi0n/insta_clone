@@ -1,6 +1,6 @@
 # insta_clone
 
-A new Flutter application. / Android Studio
+Flutter를 이용한 인스타 카피 / Android Studio
 
 ## 주요 기술
 
