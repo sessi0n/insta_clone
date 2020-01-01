@@ -14,5 +14,5 @@ Feed page (post, comment)
 - Bloc (Stream, RxDart) 패턴 적용
 
 Follows/Likes/Profile page
-- Provider 패턴 적용
+- Bloc, Provider 패턴 혼합 적용
 
