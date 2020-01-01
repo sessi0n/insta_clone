@@ -1,16 +1,18 @@
 # insta_clone
 
-A new Flutter application.
+A new Flutter application. / Android Studio
 
-## Getting Started
+## 주요 기술
 
-This project is a starting point for a Flutter application.
+Login page
+- firebase auth, facebook 
 
-A few resources to get you started if this is your first Flutter project:
+Camera page
+- Firebase Storage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Feed page (post, comment)
+- Bloc (Stream, RxDart) 패턴 적용
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follows/Likes/Profile page
+- Provider 패턴 적용
+
