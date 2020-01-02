@@ -16,3 +16,6 @@ Feed page (post, comment)
 Follows/Likes/Profile page
 - Bloc, Provider 패턴 혼합 적용
 
+## 레이아웃
+![layout_insta_clone](./layout_insta_clone.png)
+
